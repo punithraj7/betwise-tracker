@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+coverage
+.DS_Store
+.env*
+!.env.example
+node_modules/
+.next/
+out/
